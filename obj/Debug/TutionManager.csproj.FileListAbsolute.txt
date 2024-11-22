@@ -1,0 +1,16 @@
+D:\CMSCODE\TutionManager\bin\Debug\TutionManager.exe.config
+D:\CMSCODE\TutionManager\bin\Debug\TutionManager.exe
+D:\CMSCODE\TutionManager\bin\Debug\TutionManager.pdb
+D:\CMSCODE\TutionManager\obj\Debug\TutionManager.csproj.AssemblyReference.cache
+D:\CMSCODE\TutionManager\obj\Debug\TutionManager.Properties.Resources.resources
+D:\CMSCODE\TutionManager\obj\Debug\TutionManager.csproj.GenerateResource.cache
+D:\CMSCODE\TutionManager\obj\Debug\TutionManager.csproj.CoreCompileInputs.cache
+D:\CMSCODE\TutionManager\obj\Debug\TutionManager.exe
+D:\CMSCODE\TutionManager\obj\Debug\TutionManager.pdb
+D:\CMSCODE\TutionManager\obj\Debug\TutionManager.frmRegistration.resources
+D:\CMSCODE\TutionManager\bin\Debug\LiteDB.dll
+D:\CMSCODE\TutionManager\bin\Debug\System.Buffers.dll
+D:\CMSCODE\TutionManager\bin\Debug\LiteDB.xml
+D:\CMSCODE\TutionManager\bin\Debug\System.Buffers.xml
+D:\CMSCODE\TutionManager\obj\Debug\TutionMa.A2CD2649.Up2Date
+D:\CMSCODE\TutionManager\obj\Debug\TutionManager.frmDatabase.resources
